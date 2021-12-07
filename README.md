@@ -20,6 +20,7 @@ If the images are already in a pickle file, you just need to run the main.py fil
 If not, then you first need to open the ReadAndCreate.py file. Only then can you start the main.py file.
 
 ###Structure###
+
 -architectures.py
 	This file contains the model's structure and consists of, in this case, multiple neural layers. In between we can find some RELU-Activation-Layers
 
