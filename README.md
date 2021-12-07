@@ -5,7 +5,7 @@ Have fun looking at the project. If you got any questions or found a mistake, fe
 #Author: Said Kaloev
 #Exercise 5: ML Project
 
-##################################################Description##################################################
+###Description###
 
 This project is part of the ML Challenge of Programming in Python2 - 2021.
 It is trained to predict the random unknown borders of the input_images, which have a 90x90 shape
@@ -14,12 +14,12 @@ There are a total of around 40k images, which were converted to grayscale and re
 
 Due to privacy reasons the dataset could not be uploaded
 
-##################################################Usage##################################################
+###Useage###
 
 If the images are already in a pickle file, you just need to run the main.py file, which will then start the training and evaluation process.
 If not, then you first need to open the ReadAndCreate.py file. Only then can you start the main.py file.
 
-##################################################Structure##################################################
+###Structure###
 -architectures.py
 	This file contains the model's structure and consists of, in this case, multiple neural layers. In between we can find some RELU-Activation-Layers
 
