@@ -3,7 +3,9 @@ Have fun looking at the project. If you got any questions or found a mistake, fe
 
 
 #Author: Said Kaloev
+
 #Exercise 5: ML Project
+
 #Contact: said.ischchan62@gmail.com
 
 ###Description###
