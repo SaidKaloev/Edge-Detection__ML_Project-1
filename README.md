@@ -38,7 +38,7 @@ This file contain the functions resize_transformer, data_preparator and Image_Re
 		
 		2.data_preparator: Gets the images, calls the resize_transformer and Image_Reader, and stores the created array into a pklz file (=dataset)
 		
-		3.Image_Reader: Is the ex4 solution, which was created by the Python2 Team. As output we get 3 arrays
+		3.Image_Reader: Gets as input an image as array, border_size in the x-direction and border_size in the y_direction and outputs 3 arrays
 		
 
 -datasets.py
