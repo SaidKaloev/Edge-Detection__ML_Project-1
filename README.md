@@ -44,7 +44,7 @@ This file contain the functions resize_transformer, data_preparator and Image_Re
 -datasets.py
 
 
-Consists of only the class ImageData, which gets the arrays stored in the created pickels-dataset
+Consists of the class ImageData, which loads our dataset(pklz_file) to work on
 
 -main.py
 
