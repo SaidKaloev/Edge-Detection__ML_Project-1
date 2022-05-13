@@ -2,7 +2,7 @@
 Have fun looking at the project. If you got any questions or found a mistake, feel free to contact me.
 
 
-#Author: Said Kaloev
+#Author: Said Khudoyan
 
 #Exercise 5: ML Project
 
