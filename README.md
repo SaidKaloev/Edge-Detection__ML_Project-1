@@ -6,7 +6,7 @@ Have fun looking at the project. If you got any questions or found a mistake, fe
 
 #Exercise 5: ML Project
 
-#Contact: said.ischchan62@gmail.com
+#Contact: khudoyan.said@gmail.com
 
 ###Description###
 
